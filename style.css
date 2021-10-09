@@ -17,3 +17,9 @@
     cursor: pointer;
     
 }
+.price{
+    color:rgb(27, 10, 10);
+}
+#phone{
+    border-top: 20px;
+}
