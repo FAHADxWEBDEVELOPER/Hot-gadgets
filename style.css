@@ -1,0 +1,19 @@
+.container{
+    margin-bottom: 100px;
+}
+#carouselExampleIndicators{
+    background-color: whitesmoke;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom,gray 0%, black 100%);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+    
+}
